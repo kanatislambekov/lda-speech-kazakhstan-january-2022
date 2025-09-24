@@ -1,0 +1,14 @@
+# data
+data/
+*.csv
+
+# notebooks & cache
+.ipynb_checkpoints/
+
+# figures
+figures/
+
+# venv
+.venv/
+env/
+__pycache__/
